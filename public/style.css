@@ -1,0 +1,8 @@
+li{
+list-style-type: none;
+  display: inline;
+}
+
+input{
+  width:50px;
+}
